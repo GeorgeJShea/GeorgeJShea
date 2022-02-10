@@ -3,7 +3,8 @@
 
 -I’m currently learning Big Data and data introduction 
 -I’m looking to collaborate on algrethym optmization
--How to reach me 
+
+Also i Love VR
 
 <!---
 GeorgeJShea/GeorgeJShea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
